@@ -1,0 +1,16 @@
+Lignocellulosic Biomass (LCB) is a renewable resource and potential alternative source for
+fossil fuels. Many pretreatment techniques are suitable for the processing and utilization of
+LCB. In the biological pretreatment, a cocktail of enzymes are used containing
+Endoglucanase, Beta-Glucosidase, Cellobiohydrolase, and most recently lytic polysaccharide
+monooxygenase (LPMO). These enzymes act synergistically to convert the crystalline and
+amorphous cellulose polymers in LCB to monomeric glucose. With the rapid development of
+computing technology, simulation is becoming easier day by day and a more important tool
+for understanding the mechanism of action of a complex macromolecule process. Here, we
+intend to develop a computational model that captures various scales (in terms of time and
+number of components) that can be captured as close to reality. Specifically, we intend to use
+a cellulose microfibril constructed using the Cellulose Builder tool, where the 1-beta form made
+of beta-D-glucose monomers will be used for constructing a multiscale model. Discrete
+Molecular dynamics, Quantum Mechanical calculations, and Coarse-grained dynamics will
+be used to understand the model at various scales. We hope to shed light on the synergistic
+activity of the four enzymes in the degradation of LCB. Thus understanding the factors that
+affect biomass degradation will be important to maximize the yield of glucose from LCB.
